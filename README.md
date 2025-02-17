@@ -47,7 +47,6 @@ Users can also manually override the background using buttons, and reset it back
 ```sh
 open index.html
 ```
-Or simply **double-click** the file.
 
 ---
 
